@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Edam.UI.Common.Console (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Edam.UI.Common.Console (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
