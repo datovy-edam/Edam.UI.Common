@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Edam.UI.Common" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Edam.UI.Common">
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="About">
+						<NamedResource name="AboutControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/About/AboutControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\About\AboutControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Accounts">
+						<NamedResource name="AccountLoginControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Accounts/AccountLoginControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Accounts\AccountLoginControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AccountPinLoginControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Accounts/AccountPinLoginControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Accounts\AccountPinLoginControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Diagnostics">
+						<NamedResource name="DiagnosticsLogControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Diagnostics/DiagnosticsLogControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Diagnostics\DiagnosticsLogControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DiagnosticsLogSidePanel.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Diagnostics/DiagnosticsLogSidePanel.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Diagnostics\DiagnosticsLogSidePanel.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Navigation">
+						<NamedResource name="NavigationControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Navigation/NavigationControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Navigation\NavigationControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Notes">
+						<NamedResource name="NotesViewEditControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Notes/NotesViewEditControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Notes\NotesViewEditControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ReferenceLists">
+						<NamedResource name="ReferenceListGroupEditControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/ReferenceLists/ReferenceListGroupEditControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\ReferenceLists\ReferenceListGroupEditControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ReferenceListViewControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/ReferenceLists/ReferenceListViewControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\ReferenceLists\ReferenceListViewControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Utilities">
+						<NamedResource name="FolderViewControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Utilities/FolderViewControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Utilities\FolderViewControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="KeyPadControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Utilities/KeyPadControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Utilities\KeyPadControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TextButtonControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Utilities/TextButtonControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Utilities\TextButtonControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TextEditorControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Utilities/TextEditorControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Utilities\TextEditorControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Web">
+						<NamedResource name="WebBrowserControl.xbf" uri="ms-resource://Edam.UI.Common/Files/Edam.UI.Common/Controls/Web/WebBrowserControl.xbf">
+							<Candidate type="Path">
+								<Value>Edam.UI.Common\Controls\Web\WebBrowserControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

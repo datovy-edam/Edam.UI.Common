@@ -1,0 +1,14 @@
+Edam.UI.Common\Controls\About\AboutControl.xbf
+Edam.UI.Common\Controls\Accounts\AccountLoginControl.xbf
+Edam.UI.Common\Controls\Accounts\AccountPinLoginControl.xbf
+Edam.UI.Common\Controls\Diagnostics\DiagnosticsLogControl.xbf
+Edam.UI.Common\Controls\Diagnostics\DiagnosticsLogSidePanel.xbf
+Edam.UI.Common\Controls\Navigation\NavigationControl.xbf
+Edam.UI.Common\Controls\Notes\NotesViewEditControl.xbf
+Edam.UI.Common\Controls\ReferenceLists\ReferenceListGroupEditControl.xbf
+Edam.UI.Common\Controls\ReferenceLists\ReferenceListViewControl.xbf
+Edam.UI.Common\Controls\Utilities\FolderViewControl.xbf
+Edam.UI.Common\Controls\Utilities\KeyPadControl.xbf
+Edam.UI.Common\Controls\Utilities\TextButtonControl.xbf
+Edam.UI.Common\Controls\Utilities\TextEditorControl.xbf
+Edam.UI.Common\Controls\Web\WebBrowserControl.xbf

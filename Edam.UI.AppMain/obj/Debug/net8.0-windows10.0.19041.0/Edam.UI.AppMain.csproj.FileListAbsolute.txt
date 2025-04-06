@@ -1,0 +1,15 @@
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\bin\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.deps.json
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\bin\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.dll
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\bin\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.pdb
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\bin\Debug\net8.0-windows10.0.19041.0\Edam.Common.dll
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\bin\Debug\net8.0-windows10.0.19041.0\Edam.Common.pdb
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.csproj.AssemblyReference.cache
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.AssemblyInfoInputs.cache
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.AssemblyInfo.cs
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.csproj.CoreCompileInputs.cache
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI..C134CC94.Up2Date
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.dll
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\refint\Edam.UI.AppMain.dll
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\Edam.UI.AppMain.pdb
+C:\prjs\Edam.Libraries\Edam.UI\Edam.UI.Common\Edam.UI.AppMain\obj\Debug\net8.0-windows10.0.19041.0\ref\Edam.UI.AppMain.dll
