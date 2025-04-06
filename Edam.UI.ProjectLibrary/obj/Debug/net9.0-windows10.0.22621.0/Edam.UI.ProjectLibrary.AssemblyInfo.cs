@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Edam.UI.ProjectLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae5f331767208a9c9e4415a01406dfdc20a9f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Edam.UI.ProjectLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Edam.UI.ProjectLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

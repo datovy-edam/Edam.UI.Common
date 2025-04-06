@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edam.UI.AppMain", "Edam.UI.AppMain\Edam.UI.AppMain.csproj", "{41838774-1ACF-4A47-AE6C-F754B21DFCE1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edam.UI.Common", "Edam.UI.Common\Edam.UI.Common.csproj", "{CC730BAF-D286-4086-95FF-89984AD88D46}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edam.UI.ProjectLibrary", "Edam.UI.ProjectLibrary\Edam.UI.ProjectLibrary.csproj", "{8A186623-DAF3-4281-8738-D7193FE194DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edam.UI.Common.Console", "Edam.UI.Common.Console\Edam.UI.Common.Console.csproj", "{6A83F05B-CD6F-4CD1-AE36-6C2F5AECF574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edam.UI.AppMain", "Edam.UI.AppMain\Edam.UI.AppMain.csproj", "{632319E8-5AF9-155B-AC11-D404B96BF59A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41838774-1ACF-4A47-AE6C-F754B21DFCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41838774-1ACF-4A47-AE6C-F754B21DFCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41838774-1ACF-4A47-AE6C-F754B21DFCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41838774-1ACF-4A47-AE6C-F754B21DFCE1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC730BAF-D286-4086-95FF-89984AD88D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC730BAF-D286-4086-95FF-89984AD88D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC730BAF-D286-4086-95FF-89984AD88D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,6 +31,10 @@ Global
 		{6A83F05B-CD6F-4CD1-AE36-6C2F5AECF574}.Release|Any CPU.ActiveCfg = Release|x64
 		{6A83F05B-CD6F-4CD1-AE36-6C2F5AECF574}.Release|Any CPU.Build.0 = Release|x64
 		{6A83F05B-CD6F-4CD1-AE36-6C2F5AECF574}.Release|Any CPU.Deploy.0 = Release|x64
+		{632319E8-5AF9-155B-AC11-D404B96BF59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632319E8-5AF9-155B-AC11-D404B96BF59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632319E8-5AF9-155B-AC11-D404B96BF59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632319E8-5AF9-155B-AC11-D404B96BF59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
