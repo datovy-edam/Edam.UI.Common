@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows10.0.22621.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>Edam.UI.ProjectLibrary</RootNamespace>
+    <RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
+    <UseWinUI>true</UseWinUI>
+    <SupportedOSPlatformVersion>10.0.22621.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.Sizers" Version="8.1.240916" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.1742" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.7.250310001" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Edam.UI.Common\Edam.UI.Common.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Edam.Common">
+      <HintPath>..\..\..\Edam.Common\Edam.Common\bin\Debug\net9.0\Edam.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.Asset.Services">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.Assets.Services\bin\Debug\net9.0\Edam.Data.Asset.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.AssetDb">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.AssetDb\bin\Debug\net9.0\Edam.Data.AssetDb.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.AssetReference">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.AssetReference\bin\Debug\net9.0\Edam.Data.AssetReference.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.Assets">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.Assets\bin\Debug\net9.0\Edam.Data.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.DataServices">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.DataServices\bin\Debug\net9.0\Edam.Data.DataServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.ReferenceData">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.ReferenceData\bin\Debug\net9.0\Edam.Data.ReferenceData.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Json">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Json\bin\Debug\net9.0\Edam.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+</Project>

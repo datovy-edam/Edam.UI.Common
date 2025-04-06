@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows10.0.22621.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>Edam.UI.Common</RootNamespace>
+    <RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
+    <UseWinUI>true</UseWinUI>
+    <SupportedOSPlatformVersion>10.0.22621.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="CommunityToolkit.WinUI.UI.Controls.DataGrid" Version="7.1.2" />
+    <PackageReference Include="CommunityToolkit.WinUI.UI.Controls.Markdown" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.1742" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.7.250310001" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Edam.Common">
+      <HintPath>..\..\..\Edam.Common\Edam.Common\bin\Debug\net9.0\Edam.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.DataServices">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.DataServices\bin\Debug\net9.0\Edam.Data.DataServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Edam.Data.ReferenceData">
+      <HintPath>..\..\..\Edam.Data.Library\Edam.Data.ReferenceData\bin\Debug\net9.0\Edam.Data.ReferenceData.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+</Project>
